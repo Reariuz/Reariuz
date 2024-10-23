@@ -6,6 +6,14 @@ Ich bin ein Softwareentwickler mit maritimen Hintergrund und studiere derzeit In
 
 ## Technische Fähigkeiten
 
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <a href="https://github.com/Reariuz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reariuz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reariuz&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
 ### Programmiersprachen
 - **Python**: ★★★★☆ (Fortgeschritten)
 - **Java**: ★★★☆☆ (Mittel)
