@@ -1,11 +1,5 @@
 # Willkommen auf meinem GitHub-Profil!
 
-## Über mich
-
-Ich bin ein Softwareentwickler mit maritimen Hintergrund und studiere derzeit Informatik. Ich arbeite an verschiedenen Softwareprojekten für öffentliche und private Organisationen und strebe danach, innovative Lösungen zu entwickeln.
-
-## Technische Fähigkeiten
-
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/Reariuz">
@@ -13,6 +7,12 @@ Ich bin ein Softwareentwickler mit maritimen Hintergrund und studiere derzeit In
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reariuz&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+## Über mich
+
+Ich bin ein Softwareentwickler mit maritimen Hintergrund und studiere derzeit Informatik. Ich arbeite an verschiedenen Softwareprojekten für öffentliche und private Organisationen und strebe danach, innovative Lösungen zu entwickeln.
+
+## Technische Fähigkeiten
 
 ### Programmiersprachen
 - **Python**: ★★★★☆ (Fortgeschritten)
